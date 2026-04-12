@@ -42,25 +42,8 @@ Confirmation modals for data safety.
 
 Toast notifications for real-time actions.
 
-⚙️ Installation & Setup
-Clone the repository:
+Example:
 
-Bash
-git clone https://github.com/your-username/tasker.git
-Install dependencies:
-
-Bash
-npm install
-Environment Variables:
-Create a .env.local file in the root directory and add your Supabase credentials:
-
-Snippet de código
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-Run Development Server:
-
-Bash
-npm run dev
-Open http://localhost:3000 to see the magic happen.
+<img width="1846" height="872" alt="tasker_example" src="https://github.com/user-attachments/assets/d2ee9061-f409-4630-94f1-2184ed748166" />
 
 Built with ☕ and precision by Leandro Lima.
