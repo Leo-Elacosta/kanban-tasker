@@ -44,6 +44,10 @@ Toast notifications for real-time actions.
 
 Example:
 
+<img width="1696" height="818" alt="image" src="https://github.com/user-attachments/assets/02c2e1b6-4a21-4cd5-91b1-505cda44a6fd" />
+<img width="654" height="760" alt="image" src="https://github.com/user-attachments/assets/02d79ab4-a959-4906-be33-2e25c90b6644" />
+
+
 <img width="1846" height="872" alt="tasker_example" src="https://github.com/user-attachments/assets/d2ee9061-f409-4630-94f1-2184ed748166" />
 
 Built with ☕ and precision by Leandro Lima.
